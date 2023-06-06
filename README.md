@@ -1,4 +1,4 @@
-# airDrawing-using-Python
+# Air Drawing using Python
 
 ## Introduction:
 
