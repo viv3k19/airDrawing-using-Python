@@ -50,6 +50,6 @@ In conclusion, the Air Drawing project is a great example of the power of comput
 ![image](https://github.com/viv3k19/airDrawing-using-Python/assets/82309435/c1de022b-94aa-448f-b8bc-9baf8389bf38)
 
 # Project Creator
-* Vivek Malam
+* Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
 
 
